@@ -1,0 +1,12 @@
+{
+  "title": "Local File Link",
+  "name": "localfilelink",
+  "version": "0.0.1",
+  "description": "Allows the user to open local file links",
+  "main": "index.js",
+  "author": "Rob Caiger",
+  "engines": {
+    "firefox": ">=31.4"
+  },
+  "license": "MIT"
+}

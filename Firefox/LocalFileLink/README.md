@@ -1,4 +1,4 @@
-#Local File Link
+# Local File Link
 Firefox plugin to allow users to open UNC file paths
 
 `packaged/local-file-link-legacy.xpi`
